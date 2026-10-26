@@ -269,10 +269,10 @@ HeartCure can be hosted free on [Streamlit Community Cloud](https://streamlit.io
 
 Department of Artificial Intelligence and Machine Learning, Aditya University, under the guidance of **Mr. G. Siva Shankar** (Assistant Professor, AIML).
 
-- Kadali Swarna Latha (24B11AI151)
-- Konda Sasi Meghana (24B11AI194)
-- Madabattula Tejo Hasini (24B11AI223)
-- Oduri Bheemeswari (24B11AI305)
+- Kadali Swarna Latha 
+- Konda Sasi Meghana 
+- Madabattula Tejo Hasini 
+- Oduri Bheemeswari 
 
 ## ⚠️ Medical Disclaimer
 
