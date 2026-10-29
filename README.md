@@ -147,8 +147,6 @@ HeartCure/
 ├── .streamlit/
 │   └── config.toml           # Streamlit theme and UI settings
 ├── assets/                   # Images used by the app
-│   ├── cardiac_ai_blended.png
-│   ├── cardiac_ai_hero.png
 │   ├── doctor.jpg
 │   └── heart_3d.jpg
 ├── docs/

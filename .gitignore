@@ -10,12 +10,9 @@ venv/
 env/
 ENV/
 
-# Project documentation & report files (excluded per requirement)
+# Project documentation & report files
 *.docx
 *.pdf
-inspect_lof_xml.py
-screenshots/
-model
 
 # Operating System & IDE artifacts
 .DS_Store
